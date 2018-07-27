@@ -1,7 +1,6 @@
 # bank-mortgage-retention
 Modeling Mortgage Customer Retention with Binary Logistic Regression
 
-Project Summary
 A bank, looking to prevent the loss of mortgage customers at the end of the ‘lock-in’ period,
 asked for an analysis of customers’ personal circumstances to determine if any variables
 significantly influence the customer’s decision to stay or leave the bank. An analysis was
